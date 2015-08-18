@@ -1,0 +1,17 @@
+From florian at planet-tiax.de  Sat Jul  9 20:40:12 2005
+From: florian at planet-tiax.de (Florian Heinle)
+Date: Sat, 09 Jul 2005 20:40:12 +0200
+Subject: [Pwnbot-announce] He da!
+Message-ID: <42D01A0C.2080302@planet-tiax.de>
+
+He da!
+
+Jetzt gibts Mailinglisten.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 187 bytes
+Desc: OpenPGP digital signature
+URL: <https://lists.berlios.de/pipermail/pwnbot-announce/attachments/20050709/6acd1c77/attachment.pgp>
+
